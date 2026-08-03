@@ -52,7 +52,7 @@ A financial services platform offering:
 A full-scale real estate platform.
 - 🌐 Web application + backend architecture
 - 🏠 Property listings, management & discovery
-- ⚙️ Scalable system design
+- ⚙️ Damani AI integration.
 
 ---
 
