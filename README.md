@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afjal Hussain
+# 👋 Hi, I'm Md Afjal Hussain
 
 🚀 Full Stack Developer | 📱 React Native | ⚡ Next.js & React | Node.Js & Express.Js | 🧠 Problem Solver
 
