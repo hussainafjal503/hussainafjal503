@@ -12,7 +12,7 @@ I enjoy solving real-world problems and creating impactful digital products with
 - 🎓 MCA from **LNCT College of Technology**
 - 💼 Associate Software Engineer at **Triazine Software**
 - 📱 Specialized in modern frontend & mobile development
-- 🚀 Currently building production-level applications across fintech, real-estate, and management systems
+- 🚀 Currently building production-level applications across fintech, real-estate, safety and Gym management systems
 
 ---
 
