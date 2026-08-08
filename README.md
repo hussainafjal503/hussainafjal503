@@ -264,38 +264,6 @@ const afjal = {
 🚀 Production Readiness
 ```
 
----
-
-# 📊 GitHub Performance
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussainafjal503&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainafjal503&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hussainafjal503&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainafjal503&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 # 💼 Professional Journey
 
 ### 🏢 Triazine Software
