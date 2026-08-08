@@ -305,6 +305,31 @@ High-Performance APIs
 AI Service Integration
 
 </td>
+
+</td>
+
+<td align="center">
+
+### 🦜
+
+### LangChain
+
+LLM Applications  
+AI Workflows & RAG
+
+</td>
+
+<td align="center">
+
+### 🕸️
+
+### LangGraph
+
+Agentic AI  
+Stateful Workflows
+
+</td>
+
 </tr>
 
 <tr>
@@ -339,31 +364,11 @@ Modern Frontend
 Flexible APIs  
 Efficient Data Fetching
 
-</td>
 
-<td align="center">
-
-### 🦜
-
-### LangChain
-
-LLM Applications  
-AI Workflows & RAG
-
-</td>
 </tr>
 
 <tr>
-<td align="center">
 
-### 🕸️
-
-### LangGraph
-
-Agentic AI  
-Stateful Workflows
-
-</td>
 
 <td align="center">
 
