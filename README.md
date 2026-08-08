@@ -286,28 +286,6 @@ const afjal = {
 <tr>
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-
-### Next.js
-
-Advanced Architecture  
-Scalable Applications
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=reactnative" width="50"/>
-
-### React Native
-
-Production-Grade Apps  
-Cross-Platform Development
-
-</td>
-
-<td align="center" width="25%">
-
 <img src="https://skillicons.dev/icons?i=python" width="50"/>
 
 ### Python
