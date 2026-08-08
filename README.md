@@ -92,7 +92,13 @@ const afjal = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,react-native,js,html,css,tailwind,redux" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux" />
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
+
+</p>
 
 <br/><br/>
 
