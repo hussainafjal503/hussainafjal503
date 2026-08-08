@@ -92,7 +92,7 @@ const afjal = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,js,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,react-native,js,html,css,tailwind,redux" />
 
 <br/><br/>
 
