@@ -276,15 +276,157 @@ const afjal = {
 
 <div align="center">
 
-|       Technology      | Focus                                         |
-| :-------------------: | :-------------------------------------------- |
-|     ⚡ **Next.js**     | Advanced architecture & scalable applications |
-|  📱 **React Native**  | Production-grade mobile experiences           |
-|     🟢 **Node.js**    | Backend architecture & APIs                   |
-|   🔷 **TypeScript**   | Type-safe application development             |
-|     ◈ **GraphQL**     | Flexible API architecture                     |
-|       🤖 **AI**       | AI-powered application experiences            |
-| 🏗️ **System Design** | Scalable software architecture                |
+### 🚀 Expanding My Tech Stack
+
+**Exploring modern technologies across Full Stack Development, AI Engineering & Scalable Systems.**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+
+### Next.js
+
+Advanced Architecture  
+Scalable Applications
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=reactnative" width="50"/>
+
+### React Native
+
+Production-Grade Apps  
+Cross-Platform Development
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+
+### Python
+
+Backend Development  
+AI & Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+
+### FastAPI
+
+High-Performance APIs  
+AI Service Integration
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+
+### TypeScript
+
+Type-Safe Development  
+Scalable Codebases
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=angular" width="50"/>
+
+### Angular
+
+Enterprise Applications  
+Modern Frontend
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=graphql" width="50"/>
+
+### GraphQL
+
+Flexible APIs  
+Efficient Data Fetching
+
+</td>
+
+<td align="center">
+
+### 🦜
+
+### LangChain
+
+LLM Applications  
+AI Workflows & RAG
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🕸️
+
+### LangGraph
+
+Agentic AI  
+Stateful Workflows
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+### Artificial Intelligence
+
+LLMs  
+AI-Powered Applications
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+### AI Agents
+
+Intelligent Automation  
+Autonomous Workflows
+
+</td>
+
+<td align="center">
+
+### 🏗️
+
+### System Design
+
+Scalable Architecture  
+Distributed Systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🧩 Exploring
+
+`Python` · `FastAPI` · `LangChain` · `LangGraph` · `AI/LLMs` · `AI Agents` · `Angular` · `System Design`
 
 </div>
 
