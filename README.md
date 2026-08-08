@@ -363,12 +363,7 @@ Modern Frontend
 
 Flexible APIs  
 Efficient Data Fetching
-
-
-</tr>
-
-<tr>
-
+</td>
 
 <td align="center">
 
@@ -380,6 +375,13 @@ LLMs
 AI-Powered Applications
 
 </td>
+
+</tr>
+
+<tr>
+
+
+
 
 <td align="center">
 
