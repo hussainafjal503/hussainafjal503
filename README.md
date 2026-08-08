@@ -264,23 +264,6 @@ const afjal = {
 🚀 Production Readiness
 ```
 
-# 💼 Professional Journey
-
-### 🏢 Triazine Software
-
-**Associate Software Engineer**
-
-Currently contributing to multiple production-grade applications across different industries.
-
-```text
-FINTECH             ████████████████████
-REAL ESTATE         ██████████████████░░
-MOBILE APPLICATIONS ███████████████████░
-SAFETY SYSTEMS      ████████████████░░░░
-GYM MANAGEMENT      ███████████████░░░░░
-AI INTEGRATION      █████████████░░░░░░░
-```
-
 ### 🎓 Education
 
 **Master of Computer Applications — MCA**
@@ -307,23 +290,6 @@ AI INTEGRATION      █████████████░░░░░░░
 
 ---
 
-# 🌐 Open Source & GitHub
-
-<div align="center">
-
-<a href="https://github.com/hussainafjal503?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-**11+ repositories · JavaScript · React · AI · Web Applications**
-
-</div>
-
----
 
 # 🤝 Let's Build Something Great
 
